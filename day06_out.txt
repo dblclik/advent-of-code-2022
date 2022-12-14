@@ -1,0 +1,1 @@
+First unique 14-byte signal at char: 3263

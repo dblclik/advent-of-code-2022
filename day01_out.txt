@@ -1,0 +1,4 @@
+The total elf count is 248
+The calorie count for elf 246 is 69921
+The calorie count for elf 247 is 70450
+The calorie count for elf 248 is 72718
